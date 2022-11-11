@@ -1,3 +1,4 @@
 /data/nginx/**
+/data/certbot
 !/data/nginx/.gitkeep
 init-letsencrypt.sh
