@@ -11,4 +11,4 @@
     4. Set your email in line 10
 4. Run `sudo ./init-letsencrypt.sh`
 5. Change ownership of data directory: `sudo chown ec2-user:ec2-user -R ./data`
-6. Run `docker compose up -d`
+6. Run `docker-compose up -d`
